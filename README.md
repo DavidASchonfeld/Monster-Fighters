@@ -1,4 +1,4 @@
-# Monster-Fighters
+# Monster Fighters
 [Spring 2017 - Now] (Time Period of My Working on This Project)
 
 ## What is Monster Fighters?
