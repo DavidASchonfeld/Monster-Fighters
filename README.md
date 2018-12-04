@@ -9,7 +9,7 @@ A platformer/fighting video game.
 [Screenshots will be uploaded soon]
 
 ### What technologies are you using to build it?
-I am using TypeScript (typed extension of JavaScript) and BabylonJS (game engine).
+I am using TypeScript (typed superset of JavaScript) and BabylonJS (game engine).
 
 ### Why isn't the code uploaded on Github?
 Once the game is finished, I plan on selling it. Thus, I do not want to publish its source code.
